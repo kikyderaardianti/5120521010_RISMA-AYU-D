@@ -1,0 +1,4 @@
+#Thu Jun 15 13:45:13 ICT 2023
+base.0=C\:\\Users\\Acer\\Desktop\\Game Untuk Sidang\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
